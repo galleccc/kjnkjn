@@ -1,0 +1,11 @@
+.div1 {
+    display: flex;
+}
+.div2 {
+    width: 40px;
+    height: 40px;
+    background-color: green;
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+}
